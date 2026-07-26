@@ -1,5 +1,4 @@
 {
-  "buildCommand": "echo 'build skip'",
   "outputDirectory": "public",
   "framework": null,
   "functions": {
