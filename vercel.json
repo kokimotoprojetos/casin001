@@ -1,4 +1,5 @@
 {
+  "buildCommand": "echo 'build skip - assets pre-compiled'",
   "outputDirectory": "public",
   "framework": null,
   "functions": {
