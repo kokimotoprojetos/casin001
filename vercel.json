@@ -1,7 +1,11 @@
 {
-  "buildCommand": "echo 'build skip - assets pre-compiled'",
+  "buildCommand": "echo 'skip - no build needed'",
+  "installCommand": "echo 'skip - no install needed'",
   "outputDirectory": "public",
   "framework": null,
+  "env": {
+    "NOW_PHP_DEBUG": "1"
+  },
   "functions": {
     "api/index.php": {
       "runtime": "vercel-php@0.7.4",
