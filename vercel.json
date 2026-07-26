@@ -5,7 +5,9 @@
   "installCommand": "echo 'deps installed via buildCommand'",
   "functions": {
     "api/index.php": {
-      "runtime": "vercel-php@8.2"
+      "runtime": "vercel-php@0.6.1",
+      "memory": 3008,
+      "maxDuration": 30
     }
   },
   "routes": [
