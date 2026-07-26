@@ -1,0 +1,130 @@
+{
+  "assets/images/cassino-small.png": {
+    "file": "assets/cassino-small-DmZcS2BB.png",
+    "src": "assets/images/cassino-small.png"
+  },
+  "assets/images/cassino.png": {
+    "file": "assets/cassino-Cv0UC3Ds.png",
+    "src": "assets/images/cassino.png"
+  },
+  "assets/images/sport-small.png": {
+    "file": "assets/sport-small-DzaHxV5c.png",
+    "src": "assets/images/sport-small.png"
+  },
+  "assets/images/sport.png": {
+    "file": "assets/sport-C22CSqte.png",
+    "src": "assets/images/sport.png"
+  },
+  "lang/en.json": {
+    "file": "assets/en-CO8wz2UV.js",
+    "name": "en",
+    "src": "lang/en.json",
+    "isDynamicEntry": true
+  },
+  "lang/es.json": {
+    "file": "assets/es-C4RO45xL.js",
+    "name": "es",
+    "src": "lang/es.json",
+    "isDynamicEntry": true
+  },
+  "lang/php_en.json": {
+    "file": "assets/php_en-C6PQuTyh.js",
+    "name": "php_en",
+    "src": "lang/php_en.json",
+    "isDynamicEntry": true
+  },
+  "lang/php_es.json": {
+    "file": "assets/php_es-DhSK7Pja.js",
+    "name": "php_es",
+    "src": "lang/php_es.json",
+    "isDynamicEntry": true
+  },
+  "lang/php_pt_BR.json": {
+    "file": "assets/php_pt_BR-JGPSWtEN.js",
+    "name": "php_pt_BR",
+    "src": "lang/php_pt_BR.json",
+    "isDynamicEntry": true
+  },
+  "lang/php_vendor.json": {
+    "file": "assets/php_vendor-CNgoKMZt.js",
+    "name": "php_vendor",
+    "src": "lang/php_vendor.json",
+    "isDynamicEntry": true
+  },
+  "lang/pt_BR.json": {
+    "file": "assets/pt_BR-BqVmTE7x.js",
+    "name": "pt_BR",
+    "src": "lang/pt_BR.json",
+    "isDynamicEntry": true
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-DHHcbFjz.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-Ch568Ea9.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-C54-fRIQ.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-9VThgXHM.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-Cm9M9sZB.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-QWY35r5r.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf": {
+    "file": "assets/fa-v4compatibility-DLBX5pNp.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2": {
+    "file": "assets/fa-v4compatibility-BRdYr4HJ.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-l0sNRNKZ.js",
+    "name": "app",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-zvHE5fbm.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "lang/en.json",
+      "lang/es.json",
+      "lang/php_en.json",
+      "lang/php_es.json",
+      "lang/php_pt_BR.json",
+      "lang/php_vendor.json",
+      "lang/pt_BR.json"
+    ],
+    "css": [
+      "assets/app-h6maFqWG.css"
+    ],
+    "assets": [
+      "assets/cassino-Cv0UC3Ds.png",
+      "assets/cassino-small-DmZcS2BB.png",
+      "assets/sport-C22CSqte.png",
+      "assets/sport-small-DzaHxV5c.png",
+      "assets/fa-brands-400-Ch568Ea9.woff2",
+      "assets/fa-brands-400-DHHcbFjz.ttf",
+      "assets/fa-regular-400-9VThgXHM.woff2",
+      "assets/fa-regular-400-C54-fRIQ.ttf",
+      "assets/fa-solid-900-QWY35r5r.woff2",
+      "assets/fa-solid-900-Cm9M9sZB.ttf",
+      "assets/fa-v4compatibility-BRdYr4HJ.woff2",
+      "assets/fa-v4compatibility-DLBX5pNp.ttf"
+    ]
+  }
+}
