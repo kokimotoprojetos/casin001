@@ -1,6 +1,5 @@
 {
-  "buildCommand": "echo 'skip - no build needed'",
-  "installCommand": "echo 'skip - no install needed'",
+  "buildCommand": "echo 'skip - assets pre-compiled'",
   "outputDirectory": "public",
   "framework": null,
   "env": {
@@ -11,11 +10,6 @@
       "runtime": "vercel-php@0.7.4",
       "memory": 1024,
       "maxDuration": 10
-    },
-    "api/test.php": {
-      "runtime": "vercel-php@0.7.4",
-      "memory": 128,
-      "maxDuration": 5
     }
   },
   "routes": [
