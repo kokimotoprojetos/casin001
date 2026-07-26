@@ -1,6 +1,5 @@
 {
-  "installCommand": "composer install --no-dev --optimize-autoloader",
-  "buildCommand": "echo 'Build complete'",
+  "buildCommand": "echo 'build skip'",
   "outputDirectory": "public",
   "framework": null,
   "functions": {
