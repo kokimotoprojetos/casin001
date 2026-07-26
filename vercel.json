@@ -1,17 +1,8 @@
 {
-  "buildCommand": "echo 'skip - assets pre-compiled'",
-  "outputDirectory": "public",
-  "framework": null,
-  "env": {
-    "NOW_PHP_DEBUG": "1"
-  },
-  "functions": {
-    "api/index.php": {
-      "runtime": "vercel-php@0.7.4",
-      "memory": 1024,
-      "maxDuration": 10
-    }
-  },
+  "builds": [
+    { "src": "api/index.php", "use": "vercel-php@0.7.4" },
+    { "src": "public/**", "use": "@vercel/static" }
+  ],
   "routes": [
     {
       "src": "/build/(.*)",
